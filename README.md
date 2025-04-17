@@ -1,4 +1,3 @@
-Here’s a more polished and well-structured version of your README file:
 
 ---
 
@@ -95,4 +94,3 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 
-This version improves readability and structure while maintaining all the original details. Let me know if you need further adjustments!
