@@ -25,7 +25,7 @@ class INLINE:
             [
                 InlineKeyboardButton(
                     TEXT.SOURCE_CODE,
-                    url="https://modijiurl.com/bggpW0",
+                    url="https://github.com/MN-bots/Tamil-Blasters-Rss-Bot",
                 ),
             ],
         ]
