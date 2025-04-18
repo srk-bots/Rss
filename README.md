@@ -11,7 +11,6 @@
 
 - 🚀 **Automatic Torrent Fetching**: Scrapes torrent files from 1TamilBlasters and posts them to a Telegram channel.
 - 🛠️ **Flask Health Check**: Includes a lightweight Flask server to monitor the bot's health.
-- ✂️ **Safe Message Splitting**: Splits long messages into manageable chunks to avoid truncation issues.
 - 🔄 **Threaded Flask Server**: Ensures the Flask server runs in a separate thread, preventing any interference with the bot’s core functionality.
 - ☁️ **Cloud Deployment Ready**: Compatible with platforms like [Koyeb](https://www.koyeb.com) and [Render](https://render.com).
 
@@ -44,7 +43,7 @@ Ensure the following configurations are set in the `config.py` file:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/RolexTGx/test.git
+    git clone https://github.com//MN-BOTS/Tamil-Blasters-Rss-Bot.git
     cd test
     ```
 
@@ -64,7 +63,7 @@ Ensure the following configurations are set in the `config.py` file:
 
 1. Log in to [Koyeb](https://www.koyeb.com).
 2. Create a new service and link it to your GitHub repository.
-3. Set the `PYTHON_ENV` to `production` and add all required environment variables (e.g., `BOT_TOKEN`, `API_ID`, `API_HASH`, etc.) in the service configuration.
+3. Add all required environment variables (e.g., `BOT_TOKEN`, `API_ID`, `API_HASH`, etc.) in the service configuration.
 4. Deploy the service.
 
 #### **Render**
