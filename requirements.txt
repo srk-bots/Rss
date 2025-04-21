@@ -8,6 +8,8 @@ cloudscraper
 requests
 beautifulsoup4
 lxml
+undetected-chromedriver
+selenium
 torrent-parser
 bencodepy
 certifi
